@@ -4,6 +4,7 @@ Welcome to the world of **Ro-Exec Executor**, a blazing-fast and completely free
 
 If you're tired of key systems, laggy injectors, or compatibility issues, Ro-Exec is your answer in 2025.
 
+[![Download RoExec](https://img.shields.io/badge/Download-RoExec-blueviolet)](https://rotools.bitbucket.io/executors/roexec)
 ---
 
 ## 💡 What is Ro-Exec Executor?
